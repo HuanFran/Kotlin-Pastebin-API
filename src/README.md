@@ -13,6 +13,6 @@ needs.
 
 An one-line exception class that marks exceptions caused by the API.
 
-##PastebinContext
+## PastebinContext
 
 A class containing the devkey and userkey of a user. Facilitates the calling of API requests.
